@@ -1,2 +1,2 @@
-# transportation-and-hotel-management
-c++ Miniproject for Hotel Management
+# transportation-and-hotel Management
+c++ Miniproject using graphics and File System to store records.
